@@ -7,4 +7,4 @@ NAVER_ID = 'Naver ID'
 NAVER_PASSWORD = 'Naver Password'
 
 2. Install Beautiful soup and Selenium
-3. Run python 3smartstore.py
+3. Run python3 smartstore.py
